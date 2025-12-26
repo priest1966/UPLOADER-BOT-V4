@@ -172,19 +172,3 @@ Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=
 </b>
 </details>
 
-#
-
-### My Community Details
-
-- YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
-- Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
-- Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
-- URL Uploader Bot : [Uploader 𝕏 Bot](https://t.me/UploaderXNTBot)
-
-
-### Credits and Thanks to ❤️
-
-* [Lisa (Me)](https://github.com/LISA-KOREA)
-* [Clinton Abraham](https://github.com/Clinton-Abraham)
-* [Tech VJ](https://github.com/VJBots)
-
